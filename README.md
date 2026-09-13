@@ -1,7 +1,7 @@
 # Brain Age Conformal Prediction
 
 Analysis code for Samanta et al., "Quantifying Uncertainty in Brain Age Predictions via Conformal Prediction" (2026).
-Preprint: [add bioRxiv DOI once available]
+Preprint: https://doi.org/10.64898/2026.09.04.749442
 
 ## Notebooks
 - `Conformal_interferance__with_Functional___GV___CT.ipynb` — 
